@@ -11,8 +11,8 @@ public class Module4Task3 {
     public static void main(String[] args)
     {
 
-        double a =3;
-        double b =5;
+        double a =-3;
+        double b =-5;
         double c =-2;
         double d =7;
 
@@ -38,8 +38,6 @@ public class Module4Task3 {
         double b22=Math.pow(b2,2) ;//System.out.println("b22="+b22  );
 
         b=Math.sqrt(b12+b22);
-
-
         return b;
     }
 }
