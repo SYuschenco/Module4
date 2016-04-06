@@ -1,3 +1,4 @@
+//    Покрыть юнит-тестами код к домашним заданиям лекций №4, №5, №9 и №10.
 package ua.gostart.goit.Module4;
 
 import org.junit.Test;

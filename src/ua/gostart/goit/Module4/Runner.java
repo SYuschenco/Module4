@@ -15,10 +15,10 @@ public class Runner {
 
         static double circleSquare(int r) {
 
-            int radius = r;
-            double circleSquare = Math.pow(radius,2) * Math.PI;
-            System.out.println("circleSquare=" + circleSquare);
-            return circleSquare;
+                int radius = r;
+                double circleSquare = Math.pow(radius, 2) * Math.PI;
+                System.out.println("circleSquare=" + circleSquare);
+                return circleSquare;
         }
 
         static double rectangleSquare(int a, int b) {
